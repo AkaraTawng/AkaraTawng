@@ -1,4 +1,4 @@
-!(C:\Users\STRIX\Desktop\Tawan\bodrum.jpg)
+![](bodrum.jpg)
 
 ## Christopher Chamberlain ##
 
