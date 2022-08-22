@@ -6,7 +6,6 @@
 
 # Currently Learning 💻
 - ⚡ React.js 
-- ⚡ Git
 
 # Currently Working On 👨‍🔧
 ⚡ Building portfolio projects.
