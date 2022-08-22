@@ -8,5 +8,5 @@
 - ⚡ React.js 
 
 # Currently Working On 👨‍🔧
-⚡ Building portfolio projects.
+⚡ Building my portfolio site.
 
