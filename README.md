@@ -5,8 +5,8 @@
 ⚡ I'm a frontend developer from the the Jurassic Coast, U.K. 🏄‍♂️
 
 # Currently Learning 💻
-- ⚡ React.js 
+- ⚡ JavaScript.
 
 # Currently Working On 👨‍🔧
-⚡ Building my portfolio site.
+⚡ Dev.io Responsive Web Design projects.
 
