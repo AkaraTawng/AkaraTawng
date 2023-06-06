@@ -11,5 +11,5 @@
 ⚡ ReactJS 
 
 # Currently Working On 👨‍🔧
-⚡ Dev.io Responsive Web Design projects.
+⚡ Developing my professional portfolio
 
